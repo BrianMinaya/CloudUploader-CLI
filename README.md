@@ -58,7 +58,7 @@ bash
 
 ./cli_uploader.sh /path/to/local/file.txt --encrypt --generate-link
 
-##Troubleshooting
+## Troubleshooting
 
 If you encounter issues during setup or usage, consider the following:
 
@@ -67,7 +67,7 @@ If you encounter issues during setup or usage, consider the following:
     File Upload Errors: Check Azure Blob Storage permissions and network connectivity.
     General Issues: Review the script's output for specific error messages and refer to Azure CLI documentation for troubleshooting tips.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
 
