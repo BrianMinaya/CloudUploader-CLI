@@ -37,15 +37,15 @@ bash
 
     These values will be stored securely in a .env file in the project directory.
 
-##Usage
+## Usage
 
 To upload a file to Azure Blob Storage, use the cli_uploader.sh script with the following command:
 
-##bash
+## bash
 
 ./cli_uploader.sh /path/to/file [--encrypt] [--generate-link]
 
-##Options:
+## Options:
 
     --encrypt: Encrypts the file before uploading using GPG symmetric encryption.
     --generate-link: Generates and displays a shareable link after successful upload.
